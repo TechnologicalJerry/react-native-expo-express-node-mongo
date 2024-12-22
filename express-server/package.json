@@ -1,5 +1,5 @@
 {
-  "name": "swagger-typescript-express-node-mongo",
+  "name": "react-native-expo-express-node-mongo",
   "version": "1.0.0",
   "description": "",
   "main": "server.ts",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TechnologicalJerry/swagger-typescript-express-node-mongo.git"
+    "url": "git+https://github.com/TechnologicalJerry/react-native-expo-express-node-mongo.git"
   },
   "author": "technojerry",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TechnologicalJerry/swagger-typescript-express-node-mongo/issues"
+    "url": "https://github.com/TechnologicalJerry/react-native-expo-express-node-mongo/issues"
   },
-  "homepage": "https://github.com/TechnologicalJerry/swagger-typescript-express-node-mongo#readme",
+  "homepage": "https://github.com/TechnologicalJerry/react-native-expo-express-node-mongo#readme",
   "devDependencies": {
     "@types/config": "^3.3.3",
     "@types/express": "^4.17.21",
@@ -40,7 +40,7 @@
     "nanoid": "^5.0.4",
     "nodemailer": "^6.9.7",
     "pino": "^8.17.0",
-    "swagger-typescript-express-node-mongo": "file:",
+    "react-native-expo-express-node-mongo": "file:",
     "zod": "^3.22.4"
   }
 }
